@@ -1,2 +1,2 @@
-# python-with-math
-This repo contains python with math logics
+# Python-With-Math
+This repo contains python with math logics.
